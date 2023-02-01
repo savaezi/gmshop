@@ -338,7 +338,7 @@ const Home: NextPage = () => {
       id: 31,
       name: "Bonk Mug",
       href: "#",
-      price: 29,
+      price: 25 ,
       color: "art by Foursixsix",
       imageSrc:
         "https://res.cloudinary.com/dcqarogng/image/upload/v1675204577/IMG_20230201_013237_457_h9teey.jpg",

@@ -391,7 +391,7 @@ const products = [
     id: 30,
     name: "Bonk mug",
     href: "#",
-    price: 29,
+    price: 25 ,
     color: "art by Claynosaurz, black edition",
     images:
     "https://res.cloudinary.com/dcqarogng/image/upload/v1675204505/IMG_20230201_013236_746_u5eiis.jpg",
@@ -405,7 +405,7 @@ const products = [
     id: 31,
     name: "Bonk mug",
     href: "#",
-    price: 29,
+    price: 25 ,
     color: "art by Claynosaurz, black edition",
     images:
     "https://res.cloudinary.com/dcqarogng/image/upload/v1675204577/IMG_20230201_013237_457_h9teey.jpg",
