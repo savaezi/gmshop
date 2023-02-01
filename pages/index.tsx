@@ -193,23 +193,155 @@ const Home: NextPage = () => {
     },
     {
       id: 18,
-      name: "Bonk hoodie",
+      name: "Bonk Cap",
       href: "#",
-      price: 75,
-      color: "art by Resist",
+      price: 29,
+      color: "art by Foursixsix",
       imageSrc:
-        "https://shdw-drive.genesysgo.net/BfBZRXtX2ad9dVyJnc6Tbww8egupegtiV2xiwWCBYH1h/1feed113-5a25-4f27-b683-d3d12bcc39b8.jpeg",
+        "https://res.cloudinary.com/dcqarogng/image/upload/v1675279424/IMG_20230201_225115_800_m5k3mr.jpg",
       imageAlt:
         "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
     },
     {
       id: 19,
+      name: "Bonk Cap",
+      href: "#",
+      price: 29,
+      color: "art by Fate, black edition",
+      imageSrc:
+      "https://res.cloudinary.com/dcqarogng/image/upload/v1675279482/IMG_20230201_225049_008_rsejxd.jpg",
+      imageAlt:
+        "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    },
+    {
+      id: 20,
+      name: "Bonk Cap",
+      href: "#",
+      price: 29,
+      color: "art by Fate",
+      imageSrc:
+        "https://res.cloudinary.com/dcqarogng/image/upload/v1675279483/IMG_20230201_225116_168_xt9iwq.jpg",
+      imageAlt:
+        "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    },
+    {
+      id: 21,
+      name: "Bonk hoodie",
+      href: "#",
+      price: 75,
+      color: "art by John Le",
+      imageSrc:
+        "https://res.cloudinary.com/dcqarogng/image/upload/v1675279484/IMG_20230201_225049_476_x5suw6.jpg",
+      imageAlt:
+        "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    },
+    {
+      id: 22,
+      name: "Bonk Jumper",
+      href: "#",
+      price: 65,
+      color: "art by John Le",
+      imageSrc:
+        "https://res.cloudinary.com/dcqarogng/image/upload/v1675279486/IMG_20230201_225048_924_ad9ssc.jpg",
+      imageAlt:
+        "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    },
+    {
+      id: 23,
       name: "Bonk hoodie",
       href: "#",
       price: 75,
       color: "art by Nyaumon",
       imageSrc:
         "https://shdw-drive.genesysgo.net/BfBZRXtX2ad9dVyJnc6Tbww8egupegtiV2xiwWCBYH1h/8e8d706c-a2de-4dab-8d66-ea07b69296f1.jpeg",
+      imageAlt:
+        "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    },
+    {
+      id: 24,
+      name: "Bonk Cap",
+      href: "#",
+      price: 29,
+      color: "art by Claynosaurz, black edition",
+      imageSrc:
+        "https://res.cloudinary.com/dcqarogng/image/upload/v1675279484/IMG_20230201_225048_996_enfwdi.jpg",
+      imageAlt:
+        "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    },
+    {
+      id: 25,
+      name: "Bonk Cap",
+      href: "#",
+      price: 29,
+      color: "art by Claynosaurz",
+      imageSrc:
+        "https://res.cloudinary.com/dcqarogng/image/upload/v1675279486/IMG_20230201_225116_378_inlywc.jpg",
+      imageAlt:
+        "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    },
+    {
+      id: 26,
+      name: "Bonk Cap",
+      href: "#",
+      price: 29,
+      color: "art by Foursixsix",
+      imageSrc:
+        "https://res.cloudinary.com/dcqarogng/image/upload/v1675279424/IMG_20230201_225048_861_lvcpqc.jpg",
+      imageAlt:
+        "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    },
+    {
+      id: 27,
+      name: "Bonk Tag",
+      href: "#",
+      price: 10,
+      color: "it's not hype, it's a movement",
+      imageSrc:
+        "https://res.cloudinary.com/dcqarogng/image/upload/v1675204965/IMG_20230201_021150_875_bm5ukr.jpg",
+      imageAlt:
+        "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    },
+    {
+      id: 28,
+      name: "Bonk Hoodie",
+      href: "#",
+      price: 75,
+      color: "art by Fate",
+      imageSrc:
+        "https://res.cloudinary.com/dcqarogng/image/upload/v1675204875/IMG_20230201_020939_080_iuqz9c.jpg",
+      imageAlt:
+        "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    },
+    {
+      id: 29,
+      name: "Bonk Hoodie",
+      href: "#",
+      price: 75,
+      color: "art by Pixel0",
+      imageSrc:
+        "https://res.cloudinary.com/dcqarogng/image/upload/v1675204577/IMG_20230201_013237_461_xwuccr.jpg",
+      imageAlt:
+        "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    },
+    {
+      id: 30,
+      name: "Bonk mug",
+      href: "#",
+      price: 25,
+      color: "art by Peter Bogohs",
+      imageSrc:
+        "https://res.cloudinary.com/dcqarogng/image/upload/v1675204505/IMG_20230201_013236_746_u5eiis.jpg",
+      imageAlt:
+        "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    },
+    {
+      id: 31,
+      name: "Bonk Mug",
+      href: "#",
+      price: 29,
+      color: "art by Foursixsix",
+      imageSrc:
+        "https://res.cloudinary.com/dcqarogng/image/upload/v1675204577/IMG_20230201_013237_457_h9teey.jpg",
       imageAlt:
         "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
     },

@@ -76,7 +76,7 @@ const products = [
       "https://shdw-drive.genesysgo.net/BfBZRXtX2ad9dVyJnc6Tbww8egupegtiV2xiwWCBYH1h/0ecdbf02-41fc-4bed-b439-3208a0fe0171.jpeg",
     imageAlt:
       "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
-      description: `
+    description: `
       <p> Bonk hoodie with Bonkz NFT art by Broken Tyrant on the chest in various sizes.</p>
     `,
   },
@@ -90,7 +90,7 @@ const products = [
       "https://shdw-drive.genesysgo.net/BfBZRXtX2ad9dVyJnc6Tbww8egupegtiV2xiwWCBYH1h/download.png",
     imageAlt:
       "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
-      description: `
+    description: `
       <p> Bonk hoodie with Toonies art on the chest in 2 colours and various sizes.</p>
     `,
   },
@@ -104,7 +104,7 @@ const products = [
       "https://shdw-drive.genesysgo.net/BfBZRXtX2ad9dVyJnc6Tbww8egupegtiV2xiwWCBYH1h/f83865b1-8b61-43a6-be8e-2277e6aea836.jpeg",
     imageAlt:
       "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
-      description: `
+    description: `
       <p> Bonk hoodie with Bonkz NFT art on the chest in 2 colours and various sizes.</p>
     `,
   },
@@ -118,7 +118,7 @@ const products = [
       "https://shdw-drive.genesysgo.net/BfBZRXtX2ad9dVyJnc6Tbww8egupegtiV2xiwWCBYH1h/fb083aff-07e1-4c7a-923c-8a8ac06d2ca9.jpeg",
     imageAlt:
       "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
-      description: `
+    description: `
       <p> Bonk hoodie with Bonkz NFT art by Bunjil on the chest in various sizes.</p>
     `,
   },
@@ -132,7 +132,7 @@ const products = [
       "https://shdw-drive.genesysgo.net/BfBZRXtX2ad9dVyJnc6Tbww8egupegtiV2xiwWCBYH1h/b2aaa66a-7278-4d78-abaa-8a490deb8508.jpeg",
     imageAlt:
       "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
-      description: `
+    description: `
       <p> Bonk hoodie with Bonkz NFT art by @Jonoh_jon on the chest in black colour and various sizes</p>
     `,
   },
@@ -146,7 +146,7 @@ const products = [
       "https://shdw-drive.genesysgo.net/BfBZRXtX2ad9dVyJnc6Tbww8egupegtiV2xiwWCBYH1h/32583f29-ce19-4304-9f73-0c4d2a5622af.jpeg",
     imageAlt:
       "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
-      description: `
+    description: `
       <p> Bonk hoodie with Bonkz NFT art by @Jonoh_jon on the chest in white colour and various sizes</p>
     `,
   },
@@ -160,10 +160,10 @@ const products = [
       "https://shdw-drive.genesysgo.net/BfBZRXtX2ad9dVyJnc6Tbww8egupegtiV2xiwWCBYH1h/c2e96495-a6a0-4559-97fa-8ebd154e7cb9.jpeg",
     imageAlt:
       "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
-      description: `
+    description: `
       <p> Bonk hoodie with Bonkz NFT art by Calico on the chest in 2 colours and various sizes.</p>
     `,
-    },
+  },
   {
     id: 14,
     name: "Bonk hoodie",
@@ -174,9 +174,10 @@ const products = [
       "https://shdw-drive.genesysgo.net/BfBZRXtX2ad9dVyJnc6Tbww8egupegtiV2xiwWCBYH1h/21e8a756-5658-4e90-bf01-a9b220ce4762.jpeg",
     imageAlt:
       "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
-      description: `
+    description: `
       <p>Bonk hoodie with Bonkz NFT art by Degen Poet on the chest in 2 colours and various sizes.</p>
-    `,},
+    `,
+  },
   {
     id: 15,
     name: "Bonk hoodie",
@@ -187,9 +188,10 @@ const products = [
       "https://shdw-drive.genesysgo.net/BfBZRXtX2ad9dVyJnc6Tbww8egupegtiV2xiwWCBYH1h/3ca3d5ed-8ad0-4cb6-83c6-870e963334c7.jpeg",
     imageAlt:
       "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
-      description: `
+    description: `
       <p> Bonk hoodie with Bonkz NFT art by Matt Shell on the chest in 2 colours and various sizes.</p>
-    `,},
+    `,
+  },
   {
     id: 16,
     name: "Bonk hoodie",
@@ -200,9 +202,10 @@ const products = [
       "https://shdw-drive.genesysgo.net/BfBZRXtX2ad9dVyJnc6Tbww8egupegtiV2xiwWCBYH1h/a9ac5ac5-3706-40f9-9017-79369ccd957d.jpeg",
     imageAlt:
       "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
-      description: `
+    description: `
       <p> Bonk hoodie with Bonkz NFT art by Scum on the chest in 2 colours and various sizes.</p>
-    `,},
+    `,
+  },
   {
     id: 17,
     name: "Bonk hoodie",
@@ -213,35 +216,205 @@ const products = [
       "https://shdw-drive.genesysgo.net/BfBZRXtX2ad9dVyJnc6Tbww8egupegtiV2xiwWCBYH1h/5c0b4284-2d3f-478b-bb0f-f7d65cbc4ac4.jpeg",
     imageAlt:
       "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
-      description: `
+    description: `
       <p> Bonk hoodie with Bonkz NFT art by @belikehats on the chest in 2 colours and various sizes.</p>
-    `,},
+    `,
+  },
   {
     id: 18,
+    name: "Bonk Cap",
+    href: "#",
+    price: 29,
+    color: "art by Foursixsix",
+    images:
+      "https://res.cloudinary.com/dcqarogng/image/upload/v1675279424/IMG_20230201_225115_800_m5k3mr.jpg",
+    imageAlt: "Bonk Cap with Bonkz NFT art by Foursixsix.",
+    description: `
+      <p> Bonk Cap with Bonkz NFT art by Foursixsix.</p>
+    `,
+  },
+  {
+    id: 19,
+    name: "Bonk Cap",
+    href: "#",
+    price: 29,
+    color: "art by Fate, black edition",
+    images:
+      "https://res.cloudinary.com/dcqarogng/image/upload/v1675279482/IMG_20230201_225049_008_rsejxd.jpg",
+    imageAlt:
+      "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    description: `
+      <p>  Bonk Cap with Bonkz NFT art by Foursixsix, black edition.</p>
+    `,
+  },
+  {
+    id: 20,
+    name: "Bonk Cap",
+    href: "#",
+    price: 29,
+    color: "art by Fate",
+    images:
+    "https://res.cloudinary.com/dcqarogng/image/upload/v1675279483/IMG_20230201_225116_168_xt9iwq.jpg",
+    imageAlt:
+      "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    description: `
+        <p>  Bonk Cap with Bonkz NFT art by Fate.</p>
+      `,
+  },
+  {
+    id: 21,
     name: "Bonk hoodie",
     href: "#",
     price: 75,
-    color: "art by Resist",
+    color: "art by John Le",
     images:
-      "https://shdw-drive.genesysgo.net/BfBZRXtX2ad9dVyJnc6Tbww8egupegtiV2xiwWCBYH1h/1feed113-5a25-4f27-b683-d3d12bcc39b8.jpeg",
+    "https://res.cloudinary.com/dcqarogng/image/upload/v1675279484/IMG_20230201_225049_476_x5suw6.jpg",
     imageAlt:
       "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
-      description: `
-      <p> Bonk hoodie with Bonkz NFT art by Resist on the chest in 2 colours and various sizes.</p>
-    `,},
+    description: `
+          <p> Bonk hoodie with Bonkz NFT art by John Le on the chest in 2 colours and various sizes.</p>
+        `,
+  },
   {
-    id: 19,
+    id: 22,
+    name: "Bonk jumper",
+    href: "#",
+    price: 65,
+    color: "art by John Le",
+    images:
+    "https://res.cloudinary.com/dcqarogng/image/upload/v1675279486/IMG_20230201_225048_924_ad9ssc.jpg",
+    imageAlt:
+      "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    description: `
+            <p>Bonk jumper with Bonkz NFT art by John Le on the chest in 2 colours and various sizes.</p>
+          `,
+  },
+  {
+    id: 23,
     name: "Bonk hoodie",
     href: "#",
     price: 75,
     color: "art by Nyaumon",
     images:
-      "https://shdw-drive.genesysgo.net/BfBZRXtX2ad9dVyJnc6Tbww8egupegtiV2xiwWCBYH1h/8e8d706c-a2de-4dab-8d66-ea07b69296f1.jpeg",
+    "https://shdw-drive.genesysgo.net/BfBZRXtX2ad9dVyJnc6Tbww8egupegtiV2xiwWCBYH1h/8e8d706c-a2de-4dab-8d66-ea07b69296f1.jpeg",
     imageAlt:
       "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
-      description: `
-      <p> Bonk hoodie with Bonkz NFT art by Nyaumon on the chest in 2 colours and various sizes.</p>
-    `,},
+    description: `
+              <p> Bonk hoodie with Bonkz NFT art by Nyaumon on the chest in 2 colours and various sizes.</p>
+            `,
+  },
+  {
+    id: 24,
+    name: "Bonk Cap",
+    href: "#",
+    price: 29,
+    color: "art by Claynosaurz, black edition",
+    images:
+    "https://res.cloudinary.com/dcqarogng/image/upload/v1675279484/IMG_20230201_225048_996_enfwdi.jpg",
+    imageAlt:
+      "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    description: `
+                <p> Bonk Cap with Bonkz NFT art by Claynosaurz, black edition.</p>
+              `,
+  },
+  {
+    id: 25,
+    name: "Bonk Cap",
+    href: "#",
+    price: 29,
+    color: "art by Claynosaurz",
+    images:
+    "https://res.cloudinary.com/dcqarogng/image/upload/v1675279486/IMG_20230201_225116_378_inlywc.jpg",
+    imageAlt:
+      "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    description: `
+                <p> Bonk Cap with Bonkz NFT art by Claynosaurz</p>
+              `,
+  },
+  {
+    id: 26,
+    name: "Bonk Cap",
+    href: "#",
+    price: 29,
+    color: "art by Foursixsix",
+    images:
+    "https://res.cloudinary.com/dcqarogng/image/upload/v1675279424/IMG_20230201_225048_861_lvcpqc.jpg",
+    imageAlt:
+      "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    description: `
+                <p> Bonk Cap with Bonkz NFT art by Foursixsix.</p>
+              `,
+  },
+  {
+    id: 27,
+    name: "Bonk Tag",
+    href: "#",
+    price: 10,
+    color: "it's not hype, it's a movement",
+    images:
+    "https://res.cloudinary.com/dcqarogng/image/upload/v1675204965/IMG_20230201_021150_875_bm5ukr.jpg",
+    imageAlt:
+      "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    description: `
+                <p>it's not hype, it's a movement.</p>
+              `,
+  },
+  {
+    id: 28,
+    name: "Bonk Hoodie",
+    href: "#",
+    price: 75,
+    color: "art by Fate",
+    images:
+    "https://res.cloudinary.com/dcqarogng/image/upload/v1675204875/IMG_20230201_020939_080_iuqz9c.jpg",
+    imageAlt:
+      "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    description: `
+                <p> Bonk hoodie with Bonkz NFT art by Fate on the chest in 2 colours and various sizes.</p>
+              `,
+  },
+  {
+    id: 29,
+    name: "Bonk Hoodie",
+    href: "#",
+    price: 75,
+    color: "art by Claynosaurz, black edition",
+    images:
+    "https://res.cloudinary.com/dcqarogng/image/upload/v1675204577/IMG_20230201_013237_461_xwuccr.jpg",
+    imageAlt:
+      "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    description: `
+                <p> Bonk hoodie with Bonkz NFT art by Pixel0 on the chest in 2 colours and various sizes.</p>
+              `,
+  },
+  {
+    id: 30,
+    name: "Bonk mug",
+    href: "#",
+    price: 29,
+    color: "art by Claynosaurz, black edition",
+    images:
+    "https://res.cloudinary.com/dcqarogng/image/upload/v1675204505/IMG_20230201_013236_746_u5eiis.jpg",
+    imageAlt:
+      "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    description: `
+                <p> Bonk mug with Bonkz NFT art by Peter Bogohs.</p>
+              `,
+  },
+  {
+    id: 31,
+    name: "Bonk mug",
+    href: "#",
+    price: 29,
+    color: "art by Claynosaurz, black edition",
+    images:
+    "https://res.cloudinary.com/dcqarogng/image/upload/v1675204577/IMG_20230201_013237_457_h9teey.jpg",
+    imageAlt:
+      "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    description: `
+                <p> Bonk mug with Bonkz NFT art by Foursixsix. </p>
+              `,
+  },
 ];
 function classNames(...classes: any[]) {
   return classes.filter(Boolean).join(" ");
@@ -336,11 +509,9 @@ const Item = () => {
                       }}
                       className="w-44 h-12 border rounded-lg px-2"
                     >
-                      {["S", "M", "L", "XL", "XXL"].map(
-                        (val, index) => {
-                          return <option value={val}>{val}</option>;
-                        }
-                      )}
+                      {["S", "M", "L", "XL", "XXL"].map((val, index) => {
+                        return <option value={val}>{val}</option>;
+                      })}
                     </select>
                   </div>
                 </div>
