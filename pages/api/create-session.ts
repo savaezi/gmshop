@@ -15,7 +15,7 @@ const handler = async (req: NextApiRequest, res: NextApiResponse) => {
         shipping_fees: 30,
         discounts: { 
           verified_creator_address:
-            "6KQ9djC2JzkpjNuTeo4jBqGD88c7QmyxPhe3LEbWUD3R", 
+            "GuDEZFxcox57oRdpKpbF72tZfNpKHkc6T2G89cBtcFYn", 
           discount: 0.05,
           name: "BONKz NFT",
           image:
