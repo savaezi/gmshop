@@ -345,6 +345,17 @@ const Home: NextPage = () => {
       imageAlt:
         "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
     },
+     {
+      id: 31,
+      name: "Bonk Cap",
+      href: "#",
+      price: 29 ,
+      color: "white",
+      imageSrc:
+        "https://res.cloudinary.com/dcqarogng/image/upload/v1675279486/IMG_20230201_225116_378_inlywc.jpg",
+      imageAlt:
+        "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    },
   ];
   const router = useRouter();
   return (
