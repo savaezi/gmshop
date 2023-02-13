@@ -18,20 +18,271 @@ import { ProductContext } from "../_app";
 const products = [
   {
       id: 1,
-    name: "Bonk jumper",
+    name: "DeHoodie",
      href: "#",
-    price: 65,
-    color: "Bonk Cap with Bonkz NFT art by Claynosaurz.",
+    price: 69,
+    color: "Black",
     images:
-      "https://shdw-drive.genesysgo.net/BfBZRXtX2ad9dVyJnc6Tbww8egupegtiV2xiwWCBYH1h/photo_5960854904346097955_y.jpg",
+      "https://res.cloudinary.com/dcqarogng/image/upload/v1675810663/IMG_20230207_014700_682_u1z0jd.jpg",
       imageAlt:
       "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
     description: `
-      <p>Bonk jumper with logo and title on the chest in 2 colours and various sizes</p>
+      <p>Degods hoodie with Dust logo on the chest in various sizes and colours(if need any changes in colour, design, etc, check customization tab after purchasing!)
+#11333</p>
     `,
   },
-  
-
+  {
+      id: 2,
+    name: "DeHoodie",
+     href: "#",
+    price: 69,
+    color: "White",
+    images:
+      "https://res.cloudinary.com/dcqarogng/image/upload/v1675810664/IMG_20230207_014156_917_tzpoo7.jpg",
+      imageAlt:
+      "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    description: `
+      <p>Degods hoodie with your own Degods customization on the chest in various sizes and colours, after purchasing check customization tab for further information.
+#11334</p>
+    `,
+  },
+{
+      id: 3,
+    name: "DeHoodie",
+     href: "#",
+    price: 69,
+    color: "White",
+    images:
+      "https://res.cloudinary.com/dcqarogng/image/upload/v1675810664/IMG_20230207_014154_178_ork7gn.jpg",
+      imageAlt:
+      "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    description: `
+      <p>Degods hoodie with season III style in various sizes and colours.(if need any changes in colour, design, etc, check customization tab after purchasing!)</p>
+    `,
+  },
+  {
+      id: 4,
+    name: "DeHoodie",
+     href: "#",
+    price: 69,
+    color: "Black",
+    images:
+      "https://res.cloudinary.com/dcqarogng/image/upload/v1675810664/IMG_20230207_014129_428_pucxph.jpg",
+      imageAlt:
+      "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    description: `
+      <p>Degods hoodie with Frank's pined tweet on the chest in various sizes and colours.(if need any changes in colour, design, etc, check customization tab after purchasing!)
+#11335</p>
+    `,
+  },
+ {
+      id: 5,
+    name: "DeMug",
+     href: "#",
+    price: 25,
+    color: "White",
+    images:
+      "https://res.cloudinary.com/dcqarogng/image/upload/v1675810665/IMG_20230207_014143_552_pj5qvi.jpg",
+      imageAlt:
+      "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    description: `
+      <p>Degods mug with DeColourful logo.</p>
+    `,
+  },
+   {
+      id: 6,
+    name: "DeMug",
+     href: "#",
+    price: 25,
+    color: "White",
+    images:
+      "https://res.cloudinary.com/dcqarogng/image/upload/v1675810666/IMG_20230207_014149_926_jmlcvd.jpg",
+      imageAlt:
+      "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    description: `
+      <p> Degods mug with season III style.</p>
+    `,
+  },
+  {
+      id: 7,
+    name: "DeHoodie",
+     href: "#",
+    price: 69,
+    color: "White",
+    images:
+      "https://res.cloudinary.com/dcqarogng/image/upload/v1675810665/IMG_20230207_014145_543_gzgpey.jpg",
+      imageAlt:
+      "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    description: `
+      <p>Degods hoodie with DeColourful logo in various sizes and colours.(if need any changes in colour, design, etc, check customization tab after purchasing!)
+#11338</p>
+    `,
+  },
+   {
+      id: 8,
+    name: "DeHoodie",
+     href: "#",
+    price: 69,
+    color: "White",
+    images:
+      "https://res.cloudinary.com/dcqarogng/image/upload/v1675810665/IMG_20230206_223500_192_s7slew.jpg",
+      imageAlt:
+      "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    description: `
+      <p>Degods hoodie with Googod style on the chest in various sizes and colours.(if need any changes in colour, design, etc, check customization tab after purchasing!)
+#11339</p>
+    `,
+  },
+   {
+      id: 9,
+    name: "DeHoodie",
+     href: "#",
+    price: 69,
+    color: "White",
+    images:
+      "https://res.cloudinary.com/dcqarogng/image/upload/v1675810666/IMG_20230207_014133_482_retyo6.jpg",
+      imageAlt:
+      "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    description: `
+      <p> Degods hoodie with Delogo on the chest in various sizes and colours.(if need any changes in colour, design, etc, check customization tab after purchasing!)
+#11040</p>
+    `,
+  },
+   {
+      id: 10,
+    name: "y00ts Mug",
+     href: "#",
+    price: 25,
+    color: "White",
+    images:
+      "https://res.cloudinary.com/dcqarogng/image/upload/v1675810667/IMG_20230206_223444_928_k48s3x.jpg",
+      imageAlt:
+      "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    description: `
+      <p>y00ts mug with 00 logo.
+#11041</p>
+    `,
+  },
+  {
+      id: 11,
+    name: "y00ts Hoodie",
+     href: "#",
+    price: 69,
+    color: "White",
+    images:
+      "https://res.cloudinary.com/dcqarogng/image/upload/v1675810668/IMG_20230206_223422_410_lfca11.jpg",
+      imageAlt:
+      "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    description: `
+      <p>y00ts hoodie with your own y00ts customization on the chest in various sizes and colours, after purchasing check customization tab for further information.
+#11042</p>
+    `,
+  },
+  {
+      id: 12,
+    name: "y00ts Hoodie",
+     href: "#",
+    price: 69,
+    color: "White",
+    images:
+      "https://res.cloudinary.com/dcqarogng/image/upload/v1675810668/IMG_20230114_011351_275_ozaern.jpg",
+      imageAlt:
+      "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    description: `
+      <p>y00ts hoodie with This is rare design on the chest in various sizes and colours.(if need any changes in colour, design, etc, check customization tab after purchasing!)
+#11043</p>
+    `,
+  },
+  {
+      id: 13,
+    name: "DeHoodie",
+     href: "#",
+    price: 69,
+    color: "White",
+    images:
+      "https://res.cloudinary.com/dcqarogng/image/upload/v1675810669/IMG_20230112_224922_406_pwls1o.jpg",
+      imageAlt:
+      "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    description: `
+      <p>Degods hoodie with Degods city design on the chest in various sizes and colours.(if need any changes in colour, design, etc, check customization tab after purchasing!)
+#11044</p>
+    `,
+  },
+  {
+      id: 14,
+    name: "DeJumper",
+     href: "#",
+    price: 59,
+    color: "White",
+    images:
+      "https://res.cloudinary.com/dcqarogng/image/upload/v1675810670/IMG_20230112_224922_143_mrhp0g.jpg",
+      imageAlt:
+      "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    description: `
+      <p>Degods Jumper with DeWorld design on the chest in various sizes and colours.(if need any changes in colour, design, etc, check customization tab after purchasing!)
+#11045</p>
+    `,
+  },
+  {
+      id: 15,
+    name: "y00ts Mug",
+     href: "#",
+    price: 25,
+    color: "White",
+    images:
+      "https://res.cloudinary.com/dcqarogng/image/upload/v1675810669/IMG_20230114_011314_192_zdh5qj.jpg",
+      imageAlt:
+      "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    description: `
+      <p>y00ts mug with y00t holder design.
+#11046</p>
+    `,
+  },
+  {
+      id: 16,
+    name: "y00ts Jumper",
+     href: "#",
+    price: 59,
+    color: "Black",
+    images:
+      "https://res.cloudinary.com/dcqarogng/image/upload/v1675812294/IMG_20230208_025326_tlemou.jpg",
+      imageAlt:
+      "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    description: `
+      <p>y00ts Jumper with y00ts logo on the chest in various sizes and colours.(if need any changes in colour, design, etc, check customization tab after purchasing!)
+#11047</p>
+    `,
+  },
+  {
+      id: 17,
+    name: "DeJumper",
+     href: "#",
+    price: 59,
+    color: "White",
+    images:
+      "https://res.cloudinary.com/dcqarogng/image/upload/v1675812294/IMG_20230208_025424_nrkx7v.jpg",
+      imageAlt:
+      "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    description: `
+      <p>Degods jumper with Frank's pined tweet on the chest in various sizes and colours.(if need any changes in colour, design, etc, check customization tab after purchasing!)
+#11048</p>
+    `,
+  },
+  {
+      id: 18,
+    name: "y00ts Jumper",
+     href: "#",
+    price: 59,
+    color: "Black",
+    images:
+      "https://res.cloudinary.com/dcqarogng/image/upload/v1675812294/IMG_20230114_011325_182_ccnzbo.jpg",
+      imageAlt:
+      "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    description: `
+      <p>y00ts jumper with your own y00ts customization on the chest in various sizes and colours, after purchasing check customization tab for further information.
+#11049</p>
+    `,
+  },
 ];
 function classNames(...classes: any[]) {
   return classes.filter(Boolean).join(" ");
