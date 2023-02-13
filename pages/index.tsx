@@ -6,16 +6,210 @@ const Home: NextPage = () => {
   const products = [
     {
       id: 1,
-      name: "Bonk jumper",
+      name: "DeHoodie",
       href: "#",
-      price: 65,
-      color: "Not hype, a movement",
+      price: 69,
+      color: "Black",
       imageSrc:
-        "https://shdw-drive.genesysgo.net/BfBZRXtX2ad9dVyJnc6Tbww8egupegtiV2xiwWCBYH1h/photo_5960854904346097955_y.jpg",
+        "https://res.cloudinary.com/dcqarogng/image/upload/v1675810663/IMG_20230207_014700_682_u1z0jd.jpg",
+      imageAlt:
+        "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    },
+    
+        {
+      id: 2,
+      name: "DeHoodie",
+      href: "#",
+      price: 69,
+      color: "White",
+      imageSrc:
+        "https://res.cloudinary.com/dcqarogng/image/upload/v1675810664/IMG_20230207_014156_917_tzpoo7.jpg",
+      imageAlt:
+        "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    },
+    
+         {
+      id: 3,
+      name: "DeHoodie",
+      href: "#",
+      price: 69,
+      color: "White",
+      imageSrc:
+        "https://res.cloudinary.com/dcqarogng/image/upload/v1675810664/IMG_20230207_014154_178_ork7gn.jpg",
+      imageAlt:
+        "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    },
+    
+         {
+      id: 4,
+      name: "DeHoodie",
+      href: "#",
+      price: 69,
+      color: "Black",
+      imageSrc:
+        "https://res.cloudinary.com/dcqarogng/image/upload/v1675810664/IMG_20230207_014129_428_pucxph.jpg",
+      imageAlt:
+        "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    },
+    
+             {
+      id: 5,
+      name: "DeMug",
+      href: "#",
+      price: 25,
+      color: "White",
+      imageSrc:
+        "https://res.cloudinary.com/dcqarogng/image/upload/v1675810665/IMG_20230207_014143_552_pj5qvi.jpg",
       imageAlt:
         "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
     },
 
+             {
+      id: 6,
+      name: "DeMug",
+      href: "#",
+      price: 25,
+      color: "White",
+      imageSrc:
+        "https://res.cloudinary.com/dcqarogng/image/upload/v1675810666/IMG_20230207_014149_926_jmlcvd.jpg",
+      imageAlt:
+        "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    },
+    
+              {
+      id: 7,
+      name: "DeHoodie",
+      href: "#",
+      price: 69,
+      color: "White",
+      imageSrc:
+        "https://res.cloudinary.com/dcqarogng/image/upload/v1675810665/IMG_20230207_014145_543_gzgpey.jpg",
+      imageAlt:
+        "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    },
+    
+    {
+      id: 8,
+      name: "DeHoodie",
+      href: "#",
+      price: 69,
+      color: "White",
+      imageSrc:
+        "https://res.cloudinary.com/dcqarogng/image/upload/v1675810665/IMG_20230206_223500_192_s7slew.jpg",
+      imageAlt:
+        "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    },
+    
+    {
+      id: 9,
+      name: "DeHoodie",
+      href: "#",
+      price: 69,
+      color: "White",
+      imageSrc:
+        "https://res.cloudinary.com/dcqarogng/image/upload/v1675810666/IMG_20230207_014133_482_retyo6.jpg",
+      imageAlt:
+        "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    },
+    {
+      id: 10,
+      name: "y00ts Mug",
+      href: "#",
+      price: 25,
+      color: "White",
+      imageSrc:
+        "https://res.cloudinary.com/dcqarogng/image/upload/v1675810667/IMG_20230206_223444_928_k48s3x.jpg",
+      imageAlt:
+        "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    },
+    {
+      id: 11,
+      name: "y00ts Hoodie",
+      href: "#",
+      price: 69,
+      color: "White",
+      imageSrc:
+        "https://res.cloudinary.com/dcqarogng/image/upload/v1675810668/IMG_20230206_223422_410_lfca11.jpg",
+      imageAlt:
+        "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    },
+    {
+      id: 12,
+      name: "y00ts Hoodie",
+      href: "#",
+      price: 69,
+      color: "White",
+      imageSrc:
+        "https://res.cloudinary.com/dcqarogng/image/upload/v1675810668/IMG_20230114_011351_275_ozaern.jpg",
+      imageAlt:
+        "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    },
+    {
+      id: 13,
+      name: "DeHoodie",
+      href: "#",
+      price: 69,
+      color: "White",
+      imageSrc:
+        "https://res.cloudinary.com/dcqarogng/image/upload/v1675810669/IMG_20230112_224922_406_pwls1o.jpg",
+      imageAlt:
+        "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    },
+    {
+      id: 14,
+      name: "DeJumper",
+      href: "#",
+      price: 59,
+      color: "White",
+      imageSrc:
+        "https://res.cloudinary.com/dcqarogng/image/upload/v1675810670/IMG_20230112_224922_143_mrhp0g.jpg",
+      imageAlt:
+        "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    },
+     {
+      id: 15,
+      name: "y00ts Mug",
+      href: "#",
+      price: 25,
+      color: "White",
+      imageSrc:
+        "https://res.cloudinary.com/dcqarogng/image/upload/v1675810669/IMG_20230114_011314_192_zdh5qj.jpg",
+      imageAlt:
+        "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    },
+    {
+      id: 16,
+      name: "y00ts Jumper",
+      href: "#",
+      price: 59,
+      color: "Black",
+      imageSrc:
+        "https://res.cloudinary.com/dcqarogng/image/upload/v1675812294/IMG_20230208_025326_tlemou.jpg",
+      imageAlt:
+        "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    },
+    {
+      id: 17,
+      name: "DeJumper",
+      href: "#",
+      price: 59,
+      color: "White",
+      imageSrc:
+        "https://res.cloudinary.com/dcqarogng/image/upload/v1675812294/IMG_20230208_025424_nrkx7v.jpg",
+      imageAlt:
+        "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    },
+    {
+      id: 18,
+      name: "y00ts Jumper",
+      href: "#",
+      price: 59,
+      color: "Black",
+      imageSrc:
+        "https://res.cloudinary.com/dcqarogng/image/upload/v1675812294/IMG_20230114_011325_182_ccnzbo.jpg",
+      imageAlt:
+        "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    },
   ];
   const router = useRouter();
   return (
