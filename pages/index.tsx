@@ -210,6 +210,61 @@ const Home: NextPage = () => {
       imageAlt:
         "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
     },
+    {
+      id: 19,
+      name: "y00ts Hoodie",
+      href: "#",
+      price: 69,
+      color: "White",
+      imageSrc:
+        "https://res.cloudinary.com/dcqarogng/image/upload/v1676371319/IMG_20230214_141023_779_dnb7jk.jpg",
+      imageAlt:
+        "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    },
+     {
+      id: 20,
+      name: "DeHoodie",
+      href: "#",
+      price: 69,
+      color: "Black",
+      imageSrc:
+        "https://res.cloudinary.com/dcqarogng/image/upload/v1676371319/IMG_20230214_141024_426_xznhb4.jpg",
+      imageAlt:
+        "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    },
+    {
+      id: 21,
+      name: "Dey00tsHoodie",
+      href: "#",
+      price: 69,
+      color: "White",
+      imageSrc:
+        "https://res.cloudinary.com/dcqarogng/image/upload/v1676371319/IMG_20230214_141018_644_fcq48z.jpg",
+      imageAlt:
+        "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    },
+    {
+      id: 22,
+      name: "DeCap",
+      href: "#",
+      price: 29,
+      color: "Black",
+      imageSrc:
+        "https://res.cloudinary.com/dcqarogng/image/upload/v1676371320/IMG_20230214_141024_053_osoqgl.jpg",
+      imageAlt:
+        "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    },
+    {
+      id: 23,
+      name: "y00ts cap",
+      href: "#",
+      price: 29,
+      color: "Black",
+      imageSrc:
+        "https://res.cloudinary.com/dcqarogng/image/upload/v1676371321/IMG_20230214_141023_774_x5he2z.jpg",
+      imageAlt:
+        "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    },
   ];
   const router = useRouter();
   return (
