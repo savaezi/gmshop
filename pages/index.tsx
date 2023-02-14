@@ -221,19 +221,9 @@ const Home: NextPage = () => {
       imageAlt:
         "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
     },
-     {
-      id: 20,
-      name: "DeHoodie",
-      href: "#",
-      price: 69,
-      color: "Black",
-      imageSrc:
-        "https://res.cloudinary.com/dcqarogng/image/upload/v1676371319/IMG_20230214_141024_426_xznhb4.jpg",
-      imageAlt:
-        "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
-    },
+
     {
-      id: 21,
+      id: 20,
       name: "Dey00tsHoodie",
       href: "#",
       price: 69,
@@ -244,7 +234,7 @@ const Home: NextPage = () => {
         "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
     },
     {
-      id: 22,
+      id: 21,
       name: "DeCap",
       href: "#",
       price: 29,
@@ -255,7 +245,7 @@ const Home: NextPage = () => {
         "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
     },
     {
-      id: 23,
+      id: 22,
       name: "y00ts cap",
       href: "#",
       price: 29,
