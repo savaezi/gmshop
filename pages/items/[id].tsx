@@ -298,23 +298,9 @@ const products = [
 #11050</p>
     `,
   },
-   {
-      id: 20,
-    name: "DeHoodie",
-     href: "#",
-    price: 69,
-    color: "Black",
-    images:
-      "https://res.cloudinary.com/dcqarogng/image/upload/v1676371319/IMG_20230214_141024_426_xznhb4.jpg",
-      imageAlt:
-      "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
-    description: `
-      <p> Degods hoodie with X+ club logo on the chest in various sizes and colours.(if need any changes in colour, design, etc, check customization tab after purchasing!)
-#11051</p>
-    `,
-  },
+
   {
-      id: 21,
+      id: 20,
     name: "DeHoodie",
      href: "#",
     price: 69,
@@ -329,7 +315,7 @@ const products = [
     `,
   },
   {
-      id: 22,
+      id: 21,
     name: "DeCap",
      href: "#",
     price: 29,
@@ -344,7 +330,7 @@ const products = [
     `,
   },
     {
-      id: 23,
+      id: 22,
     name: " y00ts cap",
      href: "#",
     price: 29,
