@@ -283,6 +283,81 @@ const products = [
 #11049</p>
     `,
   },
+  {
+      id: 19,
+    name: "y00ts Hoodie",
+     href: "#",
+    price: 69,
+    color: "White",
+    images:
+      "https://res.cloudinary.com/dcqarogng/image/upload/v1676371319/IMG_20230214_141023_779_dnb7jk.jpg",
+      imageAlt:
+      "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    description: `
+      <p> y00ts hoodie with y00ts logo on the chest in various sizes and colours.(if need any changes in colour, design, etc, check customization tab after purchasing!)
+#11050</p>
+    `,
+  },
+   {
+      id: 20,
+    name: "DeHoodie",
+     href: "#",
+    price: 69,
+    color: "Black",
+    images:
+      "https://res.cloudinary.com/dcqarogng/image/upload/v1676371319/IMG_20230214_141024_426_xznhb4.jpg",
+      imageAlt:
+      "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    description: `
+      <p> Degods hoodie with X+ club logo on the chest in various sizes and colours.(if need any changes in colour, design, etc, check customization tab after purchasing!)
+#11051</p>
+    `,
+  },
+  {
+      id: 21,
+    name: "DeHoodie",
+     href: "#",
+    price: 69,
+    color: "White",
+    images:
+      "https://res.cloudinary.com/dcqarogng/image/upload/v1676371319/IMG_20230214_141018_644_fcq48z.jpg",
+      imageAlt:
+      "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    description: `
+      <p>Degods+y00ts hoodie with Dey00ts logo on the chest in various sizes and colours.(if need any changes in colour, design, etc, check customization tab after purchasing!)
+#11052</p>
+    `,
+  },
+  {
+      id: 22,
+    name: "DeCap",
+     href: "#",
+    price: 29,
+    color: "Black",
+    images:
+      "https://res.cloudinary.com/dcqarogng/image/upload/v1676371320/IMG_20230214_141024_053_osoqgl.jpg",
+      imageAlt:
+      "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    description: `
+      <p>Degods cap with De logo in best quality.(if need any changes in colour, design, etc, check customization tab after purchasing!)
+#11053</p>
+    `,
+  },
+    {
+      id: 23,
+    name: " y00ts cap",
+     href: "#",
+    price: 29,
+    color: "Black",
+    images:
+      "https://res.cloudinary.com/dcqarogng/image/upload/v1676371321/IMG_20230214_141023_774_x5he2z.jpg",
+      imageAlt:
+      "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    description: `
+      <p> y00ts cap with 00 logo in best quality.(if need any changes in colour, design, etc, check customization tab after purchasing!)
+#11054</p>
+    `,
+  },
 ];
 function classNames(...classes: any[]) {
   return classes.filter(Boolean).join(" ");
