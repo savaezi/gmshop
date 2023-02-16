@@ -255,6 +255,51 @@ const Home: NextPage = () => {
       imageAlt:
         "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
     },
+    {
+      id: 23,
+      name: "DeTag",
+      href: "#",
+      price: 8,
+      color: "White",
+      imageSrc:
+        "https://res.cloudinary.com/dcqarogng/image/upload/v1676563555/IMG_20230216_193500_729_l8efgu.jpg",
+      imageAlt:
+        "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    },
+    {
+      id: 24,
+      name: "y00ts Tag",
+      href: "#",
+      price: 8,
+      color: "White",
+      imageSrc:
+        "https://res.cloudinary.com/dcqarogng/image/upload/v1676563556/IMG_20230216_193401_499_cy6lts.jpg",
+      imageAlt:
+        "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    },
+    {
+      id: 25,
+      name: "DePack",
+      href: "#",
+      price: 149,
+      color: "White",
+      imageSrc:
+        "https://res.cloudinary.com/dcqarogng/image/upload/v1676563557/IMG_20230216_193357_489_napeup.jpg",
+      imageAlt:
+        "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    },
+    {
+      id: 26,
+      name: "y00ts Pack",
+      href: "#",
+      price: 149,
+      color: "White",
+      imageSrc:
+        "https://res.cloudinary.com/dcqarogng/image/upload/v1676563557/IMG_20230216_193404_693_x25rnd.jpg",
+      imageAlt:
+        "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    },
+    
   ];
   const router = useRouter();
   return (
