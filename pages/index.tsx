@@ -279,7 +279,7 @@ const Home: NextPage = () => {
     },
     {
       id: 25,
-      name: "DePack ($149 insteas of $190)",
+      name: "DePack ($149 instead of $190)",
       href: "#",
       price: 149,
       color: "White",
@@ -290,7 +290,7 @@ const Home: NextPage = () => {
     },
     {
       id: 26,
-      name: "y00ts Pack ($149 insteas of $190)",
+      name: "y00ts Pack ($149 instead of $190)",
       href: "#",
       price: 149,
       color: "White",
