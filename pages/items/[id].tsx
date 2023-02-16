@@ -344,6 +344,66 @@ const products = [
 #11054</p>
     `,
   },
+  {
+      id: 23,
+    name: "DeTag",
+     href: "#",
+    price: 8,
+    color: "White",
+    images:
+      "https://res.cloudinary.com/dcqarogng/image/upload/v1676563555/IMG_20230216_193500_729_l8efgu.jpg",
+      imageAlt:
+      "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    description: `
+      <p>Degods tag with De logo.
+#11055</p>
+    `,
+  },
+   {
+      id: 24,
+    name: "y00ts Tag",
+     href: "#",
+    price: 8,
+    color: "White",
+    images:
+      "https://res.cloudinary.com/dcqarogng/image/upload/v1676563556/IMG_20230216_193401_499_cy6lts.jpg",
+      imageAlt:
+      "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    description: `
+      <p>y00ts tag with 00 logo.
+#11056</p>
+    `,
+  },
+ {
+      id: 25,
+    name: "DePack ($190,$149)",
+     href: "#",
+    price: 149,
+    color: "",
+    images:
+      "https://res.cloudinary.com/dcqarogng/image/upload/v1676563557/IMG_20230216_193357_489_napeup.jpg",
+      imageAlt:
+      "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    description: `
+      <p>Degods Pack included of a hoodie, a jumper, a mug,a tag and a cap.(Check customization tab after purchasing to choose your GMerchs and further information!)
+#11057</p>
+    `,
+  }, 
+  {
+      id: 26,
+    name: "y00ts Pack ($190,$149)",
+     href: "#",
+    price: 149,
+    color: "",
+    images:
+      "https://res.cloudinary.com/dcqarogng/image/upload/v1676563557/IMG_20230216_193404_693_x25rnd.jpg",
+      imageAlt:
+      "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    description: `
+      <p>y00ts Pack included of a hoodie, a jumper, a mug,a tag and a cap.(Check customization tab after purchasing to choose your GMerchs and further information!)
+#11058</p>
+    `,
+  }, 
 ];
 function classNames(...classes: any[]) {
   return classes.filter(Boolean).join(" ");
