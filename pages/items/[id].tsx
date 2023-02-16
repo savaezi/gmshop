@@ -376,7 +376,7 @@ const products = [
   },
  {
       id: 25,
-    name: "DePack ($190,$149)",
+    name: "DePack ($149 insteas of $190)",
      href: "#",
     price: 149,
     color: "",
@@ -391,7 +391,7 @@ const products = [
   }, 
   {
       id: 26,
-    name: "y00ts Pack ($190,$149)",
+    name: "y00ts Pack ($149 insteas of $190)",
      href: "#",
     price: 149,
     color: "",
