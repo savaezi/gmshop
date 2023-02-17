@@ -13,14 +13,7 @@ const handler = async (req: NextApiRequest, res: NextApiResponse) => {
         tokens: ["dust"],
         items: items,
         shipping_fees: 30,
-        discounts: { 
-          verified_creator_address:
-            "GuDEZFxcox57oRdpKpbF72tZfNpKHkc6T2G89cBtcFYn", 
-          discount: 0.05,
-          name: "BONKz NFT",
-          image:
-            "https://bafybeiecuemcqxzuv4ti4sgffjlwvrqedr7golppwrbbu2u5yttglath3m.ipfs.nftstorage.link/0.png?ext=png",
-        },
+      
       });
 
       return res.status(200).json(response);
