@@ -4,17 +4,7 @@ import { useRouter } from "next/router";
 
 const Home: NextPage = () => {
   const products = [
-    {
-      id: 1,
-      name: "DeHoodie",
-      href: "#",
-      price: 69,
-      color: "Black",
-      imageSrc:
-        "https://res.cloudinary.com/dcqarogng/image/upload/v1675810663/IMG_20230207_014700_682_u1z0jd.jpg",
-      imageAlt:
-        "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
-    },
+  
     
         {
       id: 2,
