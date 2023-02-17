@@ -17,6 +17,21 @@ import { Checkout } from "../../components/checkout";
 import { ProductContext } from "../_app";
 const products = [
 
+    {
+      id: 1,
+    name: "DeHoodie",
+     href: "#",
+    price: 69,
+    color: "Black",
+    images:
+      "https://res.cloudinary.com/dcqarogng/image/upload/v1675810663/IMG_20230207_014700_682_u1z0jd.jpg",
+      imageAlt:
+      "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    description: `
+      <p>Degods hoodie with Dust logo on the chest in various sizes and colours(if need any changes in colour, design, etc, check customization tab after purchasing!)
+#11333</p>
+    `,
+  },
   {
       id: 2,
     name: "DeHoodie",
