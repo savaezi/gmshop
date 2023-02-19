@@ -4,20 +4,10 @@ import { useRouter } from "next/router";
 
 const Home: NextPage = () => {
   const products = [
-    {
-      id: 1,
-      name: "DeHoodie",
-      href: "#",
-      price: 69,
-      color: "Black",
-      imageSrc:
-        "https://res.cloudinary.com/dcqarogng/image/upload/v1675810663/IMG_20230207_014700_682_u1z0jd.jpg",
-      imageAlt:
-        "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
-    },
+
     
         {
-      id: 2,
+      id: 1,
       name: "DeHoodie",
       href: "#",
       price: 69,
@@ -29,7 +19,7 @@ const Home: NextPage = () => {
     },
     
          {
-      id: 3,
+      id: 2,
       name: "DeHoodie",
       href: "#",
       price: 69,
@@ -41,7 +31,7 @@ const Home: NextPage = () => {
     },
     
          {
-      id: 4,
+      id: 3,
       name: "DeHoodie",
       href: "#",
       price: 69,
@@ -53,7 +43,7 @@ const Home: NextPage = () => {
     },
     
              {
-      id: 5,
+      id: 4,
       name: "DeMug",
       href: "#",
       price: 25,
@@ -65,7 +55,7 @@ const Home: NextPage = () => {
     },
 
              {
-      id: 6,
+      id: 5,
       name: "DeMug",
       href: "#",
       price: 25,
@@ -77,7 +67,7 @@ const Home: NextPage = () => {
     },
     
               {
-      id: 7,
+      id: 6,
       name: "DeHoodie",
       href: "#",
       price: 69,
@@ -89,7 +79,7 @@ const Home: NextPage = () => {
     },
     
     {
-      id: 8,
+      id: 7,
       name: "DeHoodie",
       href: "#",
       price: 69,
@@ -101,7 +91,7 @@ const Home: NextPage = () => {
     },
     
     {
-      id: 9,
+      id: 8,
       name: "DeHoodie",
       href: "#",
       price: 69,
@@ -112,7 +102,7 @@ const Home: NextPage = () => {
         "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
     },
     {
-      id: 10,
+      id: 9,
       name: "y00ts Mug",
       href: "#",
       price: 25,
@@ -123,7 +113,7 @@ const Home: NextPage = () => {
         "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
     },
     {
-      id: 11,
+      id: 10,
       name: "y00ts Hoodie",
       href: "#",
       price: 69,
@@ -134,7 +124,7 @@ const Home: NextPage = () => {
         "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
     },
     {
-      id: 12,
+      id: 11,
       name: "y00ts Hoodie",
       href: "#",
       price: 69,
@@ -145,7 +135,7 @@ const Home: NextPage = () => {
         "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
     },
     {
-      id: 13,
+      id: 12,
       name: "DeHoodie",
       href: "#",
       price: 69,
@@ -156,7 +146,7 @@ const Home: NextPage = () => {
         "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
     },
     {
-      id: 14,
+      id: 13,
       name: "DeJumper",
       href: "#",
       price: 59,
@@ -167,7 +157,7 @@ const Home: NextPage = () => {
         "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
     },
      {
-      id: 15,
+      id: 14,
       name: "y00ts Mug",
       href: "#",
       price: 25,
@@ -178,7 +168,7 @@ const Home: NextPage = () => {
         "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
     },
     {
-      id: 16,
+      id: 15,
       name: "y00ts Jumper",
       href: "#",
       price: 59,
@@ -189,7 +179,7 @@ const Home: NextPage = () => {
         "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
     },
     {
-      id: 17,
+      id: 16,
       name: "DeJumper",
       href: "#",
       price: 59,
@@ -200,7 +190,7 @@ const Home: NextPage = () => {
         "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
     },
     {
-      id: 18,
+      id: 17,
       name: "y00ts Jumper",
       href: "#",
       price: 59,
@@ -211,7 +201,7 @@ const Home: NextPage = () => {
         "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
     },
     {
-      id: 19,
+      id: 18,
       name: "y00ts Hoodie",
       href: "#",
       price: 69,
@@ -223,7 +213,7 @@ const Home: NextPage = () => {
     },
 
     {
-      id: 20,
+      id: 19,
       name: "Dey00tsHoodie",
       href: "#",
       price: 69,
@@ -234,7 +224,7 @@ const Home: NextPage = () => {
         "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
     },
     {
-      id: 21,
+      id: 20,
       name: "DeCap",
       href: "#",
       price: 29,
@@ -245,7 +235,7 @@ const Home: NextPage = () => {
         "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
     },
     {
-      id: 22,
+      id: 21,
       name: "y00ts cap",
       href: "#",
       price: 29,
@@ -256,7 +246,7 @@ const Home: NextPage = () => {
         "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
     },
     {
-      id: 23,
+      id: 22,
       name: "DeTag",
       href: "#",
       price: 8,
@@ -267,7 +257,7 @@ const Home: NextPage = () => {
         "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
     },
     {
-      id: 24,
+      id: 23,
       name: "y00ts Tag",
       href: "#",
       price: 8,
@@ -278,7 +268,7 @@ const Home: NextPage = () => {
         "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
     },
     {
-      id: 25,
+      id: 24,
       name: "DePack ($149 instead of $190)",
       href: "#",
       price: 149,
@@ -289,7 +279,7 @@ const Home: NextPage = () => {
         "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
     },
     {
-      id: 26,
+      id: 25,
       name: "y00ts Pack ($149 instead of $190)",
       href: "#",
       price: 149,
