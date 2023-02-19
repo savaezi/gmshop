@@ -17,23 +17,9 @@ import { Checkout } from "../../components/checkout";
 import { ProductContext } from "../_app";
 const products = [
 
-    {
-      id: 1,
-    name: "DeHoodie",
-     href: "#",
-    price: 69,
-    color: "Black",
-    images:
-      "https://res.cloudinary.com/dcqarogng/image/upload/v1675810663/IMG_20230207_014700_682_u1z0jd.jpg",
-      imageAlt:
-      "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
-    description: `
-      <p>Degods hoodie with Dust logo on the chest in various sizes and colours(if need any changes in colour, design, etc, check customization tab after purchasing!)
-#11333</p>
-    `,
-  },
+  
   {
-      id: 2,
+      id: 1,
     name: "DeHoodie",
      href: "#",
     price: 69,
@@ -48,7 +34,7 @@ const products = [
     `,
   },
 {
-      id: 3,
+      id: 2,
     name: "DeHoodie",
      href: "#",
     price: 69,
@@ -62,7 +48,7 @@ const products = [
     `,
   },
   {
-      id: 4,
+      id: 3,
     name: "DeHoodie",
      href: "#",
     price: 69,
@@ -77,7 +63,7 @@ const products = [
     `,
   },
  {
-      id: 5,
+      id: 4,
     name: "DeMug",
      href: "#",
     price: 25,
@@ -91,7 +77,7 @@ const products = [
     `,
   },
    {
-      id: 6,
+      id: 5,
     name: "DeMug",
      href: "#",
     price: 25,
@@ -105,7 +91,7 @@ const products = [
     `,
   },
   {
-      id: 7,
+      id: 6,
     name: "DeHoodie",
      href: "#",
     price: 69,
@@ -120,7 +106,7 @@ const products = [
     `,
   },
    {
-      id: 8,
+      id: 7,
     name: "DeHoodie",
      href: "#",
     price: 69,
@@ -135,7 +121,7 @@ const products = [
     `,
   },
    {
-      id: 9,
+      id: 8,
     name: "DeHoodie",
      href: "#",
     price: 69,
@@ -150,7 +136,7 @@ const products = [
     `,
   },
    {
-      id: 10,
+      id: 9,
     name: "y00ts Mug",
      href: "#",
     price: 25,
@@ -165,7 +151,7 @@ const products = [
     `,
   },
   {
-      id: 11,
+      id: 10,
     name: "y00ts Hoodie",
      href: "#",
     price: 69,
@@ -180,7 +166,7 @@ const products = [
     `,
   },
   {
-      id: 12,
+      id: 11,
     name: "y00ts Hoodie",
      href: "#",
     price: 69,
@@ -195,7 +181,7 @@ const products = [
     `,
   },
   {
-      id: 13,
+      id: 12,
     name: "DeHoodie",
      href: "#",
     price: 69,
@@ -210,7 +196,7 @@ const products = [
     `,
   },
   {
-      id: 14,
+      id: 13,
     name: "DeJumper",
      href: "#",
     price: 59,
@@ -225,7 +211,7 @@ const products = [
     `,
   },
   {
-      id: 15,
+      id: 14,
     name: "y00ts Mug",
      href: "#",
     price: 25,
@@ -240,7 +226,7 @@ const products = [
     `,
   },
   {
-      id: 16,
+      id: 15,
     name: "y00ts Jumper",
      href: "#",
     price: 59,
@@ -255,7 +241,7 @@ const products = [
     `,
   },
   {
-      id: 17,
+      id: 16,
     name: "DeJumper",
      href: "#",
     price: 59,
@@ -270,7 +256,7 @@ const products = [
     `,
   },
   {
-      id: 18,
+      id: 17,
     name: "y00ts Jumper",
      href: "#",
     price: 59,
@@ -285,7 +271,7 @@ const products = [
     `,
   },
   {
-      id: 19,
+      id: 18,
     name: "y00ts Hoodie",
      href: "#",
     price: 69,
@@ -301,7 +287,7 @@ const products = [
   },
 
   {
-      id: 20,
+      id: 19,
     name: "DeHoodie",
      href: "#",
     price: 69,
@@ -316,7 +302,7 @@ const products = [
     `,
   },
   {
-      id: 21,
+      id: 20,
     name: "DeCap",
      href: "#",
     price: 29,
@@ -331,7 +317,7 @@ const products = [
     `,
   },
     {
-      id: 22,
+      id: 21,
     name: " y00ts cap",
      href: "#",
     price: 29,
@@ -346,7 +332,7 @@ const products = [
     `,
   },
   {
-      id: 23,
+      id: 22,
     name: "DeTag",
      href: "#",
     price: 8,
@@ -361,7 +347,7 @@ const products = [
     `,
   },
    {
-      id: 24,
+      id: 23,
     name: "y00ts Tag",
      href: "#",
     price: 8,
@@ -376,7 +362,7 @@ const products = [
     `,
   },
  {
-      id: 25,
+      id: 24,
     name: "DePack ($149 instead of $190)",
      href: "#",
     price: 149,
@@ -391,7 +377,7 @@ const products = [
     `,
   }, 
   {
-      id: 26,
+      id: 25,
     name: "y00ts Pack ($149 instead of $190)",
      href: "#",
     price: 149,
