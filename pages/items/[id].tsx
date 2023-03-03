@@ -391,6 +391,42 @@ const products = [
 #11058</p>
     `,
   }, 
+    {
+      id: 26,
+    name: "De Necklace",
+     href: "#",
+    price: 49,
+    color: "Silver style",
+    images:
+      "https://res.cloudinary.com/dcqarogng/image/upload/v1677844568/IMG_20230303_045043_y66idq.jpg",
+      imageAlt:
+      "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    description: `
+      <p>DeNecklace with Degods logo.
+-Steel
+-Waterproof
+-Silver style 
+#11059</p>
+    `,
+  }, 
+    {
+      id: 27,
+    name: "De Necklace",
+     href: "#",
+    price: 49,
+    color: "Gold style",
+    images:
+      "https://res.cloudinary.com/dcqarogng/image/upload/v1677844571/IMG_20230303_044759_pxqzoh.jpg",
+      imageAlt:
+      "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    description: `
+      <p>DeNecklace with Degods logo.
+-Steel
+-Waterproof
+-Gold style 
+#11059</p>
+    `,
+  }, 
 ];
 function classNames(...classes: any[]) {
   return classes.filter(Boolean).join(" ");
