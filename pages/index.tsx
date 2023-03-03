@@ -289,7 +289,28 @@ const Home: NextPage = () => {
       imageAlt:
         "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
     },
-    
+       {
+      id: 26,
+      name: "De Necklace",
+      href: "#",
+      price: 49,
+      color: "Silver style",
+      imageSrc:
+        "https://res.cloudinary.com/dcqarogng/image/upload/v1677844568/IMG_20230303_045043_y66idq.jpg",
+      imageAlt:
+        "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    },
+     {
+      id: 27,
+      name: "De Necklace",
+      href: "#",
+      price: 49,
+      color: "Gold style",
+      imageSrc:
+        "https://res.cloudinary.com/dcqarogng/image/upload/v1677844571/IMG_20230303_044759_pxqzoh.jpg",
+      imageAlt:
+        "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    }, 
   ];
   const router = useRouter();
   return (
