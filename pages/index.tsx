@@ -310,6 +310,17 @@ const Home: NextPage = () => {
         "https://res.cloudinary.com/dcqarogng/image/upload/v1677844571/IMG_20230303_044759_pxqzoh.jpg",
       imageAlt:
         "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    },
+    {
+      id: 28,
+      name: "De Magic Mug",
+      href: "#",
+      price: 29,
+      color: "",
+      imageSrc:
+        "https://res.cloudinary.com/dcqarogng/image/upload/v1675810665/IMG_20230207_014143_552_pj5qvi.jpg",
+      imageAlt:
+        "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
     }, 
   ];
   const router = useRouter();
