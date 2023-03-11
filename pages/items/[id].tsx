@@ -427,6 +427,22 @@ const products = [
 #11059</p>
     `,
   }, 
+   {
+      id: 28,
+    name: "De Magic Mug",
+     href: "#",
+    price: 29,
+    color: "White",
+    images:
+      "https://res.cloudinary.com/dcqarogng/image/upload/v1675810665/IMG_20230207_014143_552_pj5qvi.jpg",
+      imageAlt:
+      "Front of tote bag with washed black canvas body, black straps, and tan leather handles and accents.",
+    description: `
+      <p>What's the magic mug? watch this https://twitter.com/Gmshop_org/status/1634577272207204352?t=ttCCQhzz3kJ3Rw_mPNdLNQ&s=19
+      
+     </p>
+    `,
+  },
 ];
 function classNames(...classes: any[]) {
   return classes.filter(Boolean).join(" ");
